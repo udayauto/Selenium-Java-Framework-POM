@@ -2,8 +2,13 @@
 Java-Selenium Page Object Model framework 
 
 Tools/ platform:
-Git
-Maven
-TestNG
-Jenkins 
-AWS Ec2
+
+1. Git
+
+2. Maven
+
+3. TestNG
+
+4. Jenkins 
+
+5. AWS Ec2
