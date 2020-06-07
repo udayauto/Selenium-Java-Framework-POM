@@ -1,5 +1,5 @@
 # Selenium-Java-Framework-POM
-## Java-Selenium Page Object Model framework 
+Java-Selenium (Page Object Model) framework 
 
 Tools/ platform:
 
