@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8051" started-at="2020-06-08T18:46:07 EDT" finished-at="2020-06-08T18:46:15 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8051" started-at="2020-06-08T18:46:07 EDT" finished-at="2020-06-08T18:46:15 EDT">
+      <class name="com.auto.qa.base.BaseClass">
+        <test-method status="PASS" signature="readProperty()[pri:0, instance:com.auto.qa.base.BaseClass@2d6eabae]" name="readProperty" duration-ms="13" started-at="2020-06-08T18:46:07 EDT" finished-at="2020-06-08T18:46:07 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readProperty -->
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:com.auto.qa.base.BaseClass@2d6eabae]" name="startBrowser" duration-ms="7981" started-at="2020-06-08T18:46:07 EDT" finished-at="2020-06-08T18:46:15 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+      </class> <!-- com.auto.qa.base.BaseClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
